@@ -2,7 +2,7 @@
 > Currently rewriting Skwd using the same tech I developed for Skwd-wall.
 > Current progress in the video below - ~12 MB of RAM idle! :) Needs polish and more time in the oven still though. The code in this repo is Skwd v1, and is not the same software as in the video.
 
-https://github.com/user-attachments/assets/0067a35e-5d62-496c-8a08-c573fce79805
+
 
 # Skwd - A skewed (Quick)shell
 
@@ -16,12 +16,10 @@ https://github.com/user-attachments/assets/0067a35e-5d62-496c-8a08-c573fce79805
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 
-<img alt="image" src="https://github.com/user-attachments/assets/f66130c0-238d-47f9-8867-520af1552838" />
-<img alt="image" src="https://github.com/user-attachments/assets/dd73ab27-0217-4de1-a058-826534d4bb5b" />
-<img alt="image" src="https://github.com/user-attachments/assets/acaf4486-b42a-4766-bb41-e1edd2d9c835" />
-<img alt="image" src="https://github.com/user-attachments/assets/9b0dae9e-f5fd-4446-badf-36497d64af43" />
-
-
+<img alt="image" src="./assets/preview/591328980-f66130c0-238d-47f9-8867-520af1552838.png" />
+<img alt="image" src="./assets/preview/591332494-dd73ab27-0217-4de1-a058-826534d4bb5b.png" />
+<img alt="image" src="./assets/preview/591341362-acaf4486-b42a-4766-bb41-e1edd2d9c835.png" />
+<img alt="image" src="./assets/preview/591342854-9b0dae9e-f5fd-4446-badf-36497d64af43.png" />
 
 ## What is Skwd?
 
